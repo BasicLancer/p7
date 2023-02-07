@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-Public class BinarySearchExample{  
+public class BinarySearchExample{  
  public static void binarySearch(int arr[], int first, int last, int key){  
  	int mid = (first + last)/2;  
  while( first <= last ){  
